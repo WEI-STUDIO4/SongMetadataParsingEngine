@@ -1,6 +1,7 @@
 <div align="center">
 <h1>🎵 SMPE - Song Metadata Parsing Engine</h1>
-<img width="2808" height="2104" alt="image" src="https://github.com/user-attachments/assets/8d2dab51-55ef-4ea7-aabb-f55e8c6bb022" />
+<img width="2664" height="1824" alt="image" src="https://github.com/user-attachments/assets/a93e980b-53c3-4034-bbc4-e18a68186be0" />
+
 
 
 ![Python Version](https://img.shields.io/badge/python-3.6+-blue.svg)
