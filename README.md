@@ -1,5 +1,6 @@
 <div align="center">
 <h1>🎵 SMPE - Song Metadata Parsing Engine</h1>
+  
 ![Python Version](https://img.shields.io/badge/python-3.6+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Mutagen](https://img.shields.io/badge/powered%20by-mutagen-orange.svg)
