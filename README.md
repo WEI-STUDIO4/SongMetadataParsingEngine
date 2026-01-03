@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Mutagen](https://img.shields.io/badge/powered%20by-mutagen-orange.svg)
 
-**专业的音乐文件元数据解析工具，特别强化MP3歌词提取能力**
+<h5>专业的音乐文件元数据解析工具，特别强化MP3歌词提取能力</h5>
 
 </div>
 
